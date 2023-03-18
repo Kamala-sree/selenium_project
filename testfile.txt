@@ -1,0 +1,6 @@
+<html>
+<body>
+ 	Adding HTML file to git
+</body>
+
+</html>
